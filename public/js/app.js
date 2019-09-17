@@ -1,5 +1,3 @@
-// console.log('From the client side!')
-
 const form = document.querySelector('form')
 const search = document.querySelector('input')
 const message1 = document.querySelector('#message1')
